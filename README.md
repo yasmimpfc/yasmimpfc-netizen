@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩🏻‍💻 Yasmim Ferreira
 
-<!--
-**yasmimpfc-netizen/yasmimpfc-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de QA`**
 
-Here are some ideas to get you started:
+Tenho 32 anos e sou estudante de Análise e Desenvolvimento de Sistemas.
+Sou apaixonada por tecnologia e qualidade de software, sempre em busca de aprender novas ferramentas, linguagens e boas práticas para garantir entregas cada vez mais eficientes e com excelência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<p align="center">
+  <img alt="Postman" title="Postman" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img alt="Java" title="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img alt="Jira" title="Jira" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"/>
+  <img alt="GitHub" title="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+</p>
+<p align="center">
+  💬 Experiência com ferramentas e linguagens voltadas para testes manuais e automatizados.  
+  Atuação com Postman, JavaScript, Java, e plataformas de gestão de testes como Qase e TestRail,  
+  além do uso de Jira e GitHub para controle de bugs, versionamento e integração em times ágeis.
+</p>
+
