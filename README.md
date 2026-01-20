@@ -1,4 +1,4 @@
-<h1 align="center">🧪 QA Portfolio | Yasmim Ferreira</h1>
+<h1 align="center">🔍 QA Portfolio | Yasmim Ferreira</h1>
 
 <p align="center">
   Portfólio de estudos e projetos em <strong>Quality Assurance (QA)</strong>, com foco em qualidade de software,
